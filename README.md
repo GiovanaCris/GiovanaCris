@@ -4,9 +4,9 @@
 </div>
 
 <!--Texts center-->
-<div align="center">
-    <img src="./assets/font_gradient.svg" alt="Typing text with gradient" width="1000" />
-</div>
+<p align="center">
+    <img src="./assets/font_gradient.svg" alt="Typing text with gradient" width="800" />
+</p>
 
 
 <h2>🚀 Languages and Tools I Use</h2>
