@@ -1,13 +1,10 @@
 <!--Gif-->
-<!--https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif-->
 <div align="center">
   <img src="./assets/readme_gif.gif" style="width: 100%; max-width: 800px;" />
+  <h1>Hi 👋, I'm Giovana</h1>
 </div>
 
 
-
-
-<h1>Hi 👋, I'm Giovana</h1>
 <p>A passionate FronteEnd developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
