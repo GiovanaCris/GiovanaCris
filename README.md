@@ -1,3 +1,4 @@
+![Descrição opcional](./assets/gif_readme.gif)
 <h1>Hi 👋, I'm Giovana</h1>
 <p>A passionate FronteEnd developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
