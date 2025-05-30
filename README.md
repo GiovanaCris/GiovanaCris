@@ -1,6 +1,8 @@
+<!--Gif-->
 <div align="center">
-  <img src="https://github.com/GiovanaCris/GiovanaCris/blob/main/assets/gif_readme.gif?raw=true" alt="Gif" style="width: 100%;" />
+  <img src="https://github.com/GiovanaCris/GiovanaCris/blob/main/assets/gif_readme.gif?raw=true" style="width: 100%; max-width: 800px;" />
 </div>
+
 
 <h1>Hi 👋, I'm Giovana</h1>
 <p>A passionate FronteEnd developer </p>
