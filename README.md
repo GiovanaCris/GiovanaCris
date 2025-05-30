@@ -1,7 +1,6 @@
 <!--Gif-->
 <div align="center">
   <img src="./assets/readme_gif.gif" style="width: 100%; max-width: 800px;" />
-  <h1>Hi 👋, I'm Giovana</h1>
 </div>
 
 <!--Texts center-->
