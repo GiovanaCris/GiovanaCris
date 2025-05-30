@@ -1,7 +1,9 @@
 <!--Gif-->
 <div align="center">
-  <img src="https://github.com/GiovanaCris/GiovanaCris/blob/main/assets/gif_readme.jpg?raw=true" style="width: 100%; max-width: 800px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style="width: 100%; max-width: 800px;" />
 </div>
+
+
 
 
 <h1>Hi 👋, I'm Giovana</h1>
