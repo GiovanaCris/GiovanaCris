@@ -5,7 +5,9 @@
 
 <!--Texts center-->
 <div align="center">
-  <h1 style="color:rgb(105, 190, 255);">Hi 👋, I'm Giovana</h1> 
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=1500&color=F97316&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovana;Frontend+Developer;Passionate+about+UI+%26+Clean+Code" alt="Typing SVG" />
+    </div>
   <p>A passionate FronteEnd developer </p>
 </div>
 
