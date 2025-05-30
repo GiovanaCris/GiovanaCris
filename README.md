@@ -4,9 +4,9 @@
 </div>
 
 <!--Texts center-->
-<p align="center">
-    <img src="./assets/font_gradient.svg" alt="Typing text with gradient"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=38&duration=4000&pause=1500&color=3A7E73&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovana;Frontend+Developer" alt="Typing SVG" />
+</div>
 
 
 # 💫 About Me:
