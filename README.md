@@ -6,10 +6,7 @@
 <!--Texts center-->
 <div align="center">
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=4000&pause=1000&color=3A7E73&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovana;Frontend+Developer" alt="Typing SVG" />
-        <div align="center">
-            <img src="./assets/font_gradient.svg" alt="Typing text with gradient" width="800" />
-        </div>
+        <img src="./assets/font_gradient.svg" alt="Typing text with gradient" width="800" />
     </div>
 </div>
 
