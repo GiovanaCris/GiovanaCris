@@ -5,7 +5,7 @@
 
 <!--Texts center-->
 <p align="center">
-    <img src="./assets/font_gradient.svg" alt="Typing text with gradient" width="800" />
+    <img src="./assets/font_gradient.svg" alt="Typing text with gradient"/>
 </p>
 
 
