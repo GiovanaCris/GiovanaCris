@@ -5,7 +5,7 @@
 
 <!--Texts center-->
 <div align="center">
-  <h1>Hi 👋, I'm Giovana</h1>
+  <h1 style="color:rgb(105, 190, 255);">Hi 👋, I'm Giovana</h1> 
   <p>A passionate FronteEnd developer </p>
 </div>
 
