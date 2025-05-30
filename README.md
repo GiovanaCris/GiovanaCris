@@ -1,4 +1,4 @@
-![Descrição opcional](./assets/gif_readme.gif)
+<img src="./assets/gif_readme.gif" alt="Gif" style="width: 100%;" />
 <h1>Hi 👋, I'm Giovana</h1>
 <p>A passionate FronteEnd developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
