@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-### 🎒 Recentemente adentrei no mundo da tecnologia e atualmente faço curso de Desenvolvimento de     Sistemas no SENAI "Roberto Mange";<br>💻 Trabalho como Jovem Aprendiz na Bosch Brasil como Desenvolvedora;<br>✨ Sou apaixonada por músicas, arte, tecnologia e tudo ligado á evolução;<br>🚀 Busco me aprofundar ainda mais na área e aprecio abundantemente o mundo do FrontEnd e UIUX!
+### 🎒 Recentemente adentrei no mundo da tecnologia e atualmente faço curso de DS no SENAI "Roberto Mange";<br>💻 Trabalho como Jovem Aprendiz na Bosch Brasil como Desenvolvedora;<br>✨ Sou apaixonada por músicas, arte, tecnologia e tudo ligado á evolução;<br>🚀 Busco me aprofundar ainda mais na área e aprecio abundantemente o mundo do FrontEnd e UIUX!
 
 
 ## 🌐 Socials:
