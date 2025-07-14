@@ -1,4 +1,4 @@
-!-- GIF de boas-vindas -->
+<!-- GIF -->
 <div align="center">
   <img src="./assets/readme_gif.gif" style="width: 100%; max-width: 800px;" />
 </div>
