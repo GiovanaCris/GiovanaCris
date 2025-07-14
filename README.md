@@ -1,11 +1,11 @@
-<!-- GIF de boas-vindas -->
+![ClipWindowsGIF](https://github.com/user-attachments/assets/06a153e4-ab9f-4cb8-95b3-f3e6c2d4f9c4)<!-- GIF de boas-vindas -->
 <div align="center">
   <img src="./assets/readme_gif.gif" style="width: 100%; max-width: 800px;" />
 </div>
 
 <!-- Texto digitado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=4000&pause=1500&color=67B5AA&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovan;Developer;🌼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=4000&pause=1500&color=67B5AA&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovana;Developer 🌼;" alt="Typing SVG" />
 </div>
 
 ---
