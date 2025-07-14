@@ -5,7 +5,7 @@
 
 <!-- Texto digitado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=4000&pause=1500&color=67B5AA&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovana;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=4000&pause=1500&color=67B5AA&center=true&vCenter=true&width=800&lines=Hi+I'm+Giovan;Developer;🌼" alt="Typing SVG" />
 </div>
 
 ---
