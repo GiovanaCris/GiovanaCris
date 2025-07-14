@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/06a153e4-ab9f-4cb8-95b3-f3e6c2d4f9c4)<!-- GIF de boas-vindas -->
+!-- GIF de boas-vindas -->
 <div align="center">
   <img src="./assets/readme_gif.gif" style="width: 100%; max-width: 800px;" />
 </div>
