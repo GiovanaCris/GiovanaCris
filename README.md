@@ -15,7 +15,7 @@
 🎒 Iniciei recentemente minha jornada no mundo da tecnologia e atualmente estou cursando **Desenvolvimento de Sistemas** no SENAI "Roberto Mange".  
 💻 Atuo como **Jovem Aprendiz em Desenvolvimento** na Bosch Brasil.  
 ✨ Sou apaixonada por música, arte, tecnologia e tudo que impulsiona a evolução e criatividade.  
-🚀 Estou sempre em busca de aprimorar meus conhecimentos na área, com grande entusiasmo por **data analysis** e **UI/UX Design**.
+🚀 Estou sempre em busca de aprimorar meus conhecimentos na área, com grande entusiasmo por **Data Analysis** e **UI/UX Design**.
 
 ---
 
