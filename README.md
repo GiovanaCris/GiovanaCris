@@ -53,5 +53,4 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
